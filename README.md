@@ -8,6 +8,18 @@ The project covers the complete data analysis workflow starting from data cleani
 
 ---
 
+# Dashboard Preview
+
+## Sales Overview
+
+![Dashboard](Sales_Overview.png)
+
+## Customer & Operations Analysis
+
+![Dashboard](Customer_Operation.png)
+
+---
+
 # Project Objectives
 
 * Analyze overall sales performance and revenue trends
@@ -173,17 +185,5 @@ Through this project, I improved my skills in:
 * Business Analysis
 * Data Storytelling
 * KPI Development
-
----
-
-# Dashboard Preview
-
-## Sales Overview
-
-![Dashboard](Sales_Overview.png)
-
-## Customer & Operations Analysis
-
-![Dashboard](Customer_Operation.png)
 
 
