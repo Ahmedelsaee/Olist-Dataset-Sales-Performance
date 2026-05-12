@@ -180,10 +180,10 @@ Through this project, I improved my skills in:
 
 ## Sales Overview
 
-(Sales Overview.png)
+![Dashboard](Sales_Overview.png)
 
 ## Customer & Operations Analysis
 
-(Customer & Operation Analysis.png)
+![Dashboard](Customer_Operation.png)
 
 
